@@ -62,7 +62,7 @@ namespace In_class_9_19
             else if (grade[4] < 69 && grade[4] > 60)
                 Console.WriteLine("you get a D");
             else if (grade[4] < 59)
-                Console.WriteLine("you get a F");
+                Console.WriteLine("you get a F"); 
 
         }
     }
